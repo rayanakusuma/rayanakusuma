@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rayanakusuma
-- 👀 I’m very interested in physics
+- 👀 I’m very interested in physics, geology, and art
 - 🌱 I’m currently learning python
 - 📫 How to reach me : rayana.kusuma2903@mail.ugm.ac.id
 

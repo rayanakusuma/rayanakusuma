@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="100"/>
 </div>
 <div id="badges">
-  <a href="instagram.com/rayanakusuma_">
+  <a href="instagram.com/rayanakusuma_/">
     <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://twitter.com/ksmrynaa">
